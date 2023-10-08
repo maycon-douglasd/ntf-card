@@ -1,0 +1,10 @@
+:root {
+    --macio-primario: hsl(215, 51%, 70%);
+    --medio-primario:  hsl(178, 100%, 50%);
+
+    
+    --escuro-neutro: hsl(217, 54%, 11%); 
+    --medio-neutro: hsl(216, 50%, 16%);
+    --macio-neutro:  hsl(215, 32%, 27%);
+
+}
