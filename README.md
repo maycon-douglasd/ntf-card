@@ -7,3 +7,4 @@
 <p>-HTML</p>
 <p>-CSS</p>
 
+<img src="https://github.com/maycon-douglasd/ntf-card/blob/main/src/imagens/desktop-card.png?raw=true" width="700px"/>
